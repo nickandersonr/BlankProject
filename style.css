@@ -1,3 +1,17 @@
-* {
-	background: #FFF;
+div {
+	border: 1px solid red;
+	margin: 20px;
+}
+#container {
+min-height: 100px;
+}
+#one {
+	float: left;
+}
+#two {
+	float: right;
+}
+footer {
+	border: 1px solid blue;
+	clear: both;
 }
